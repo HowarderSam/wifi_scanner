@@ -1,2 +1,1 @@
-#Please dont forget to run it with sudo , and optionally download requirements using virtual envriroment.
 #sudo -E /home/ownpath/myenv/bin/python3 network_dev.py
